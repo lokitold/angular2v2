@@ -1,0 +1,7 @@
+#archivos bloqueados de despleigue para opencart
+/nbproject/private/
+.idea/
+.idea/*
+node_modules
+/vendor
+
